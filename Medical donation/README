@@ -1,0 +1,12 @@
+ ======================= README ======================= 
+
+HOW TO RUN:
+1. Save all files in one folder
+2. Open index.html in browser
+3. No backend needed (uses localStorage)
+
+ADVANCED IMPROVEMENTS YOU CAN ADD:
+- Firebase backend
+- Authentication system
+- Real-time donor matching
+- Location-based search
