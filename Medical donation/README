@@ -1,9 +1,13 @@
  ======================= README ======================= 
 
 HOW TO RUN:
-1. Save all files in one folder
-2. Open index.html in browser
-3. No backend needed (uses localStorage)
+1. Clone the repository to our pc
+2. After cloning review on it and can improve
+3. Open index.html in browser
+4. No backend needed (uses localStorage)
+5. After improving add that to forked one repo by using "git add file_name" in terminal
+6. git commit -m "something u want to give message to us can type here"
+7. "git pull" and then "git push origin main" if origin is main otherwish "git push origin master".
 
 ADVANCED IMPROVEMENTS YOU CAN ADD:
 - Firebase backend
